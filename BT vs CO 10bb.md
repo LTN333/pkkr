@@ -1,0 +1,11 @@
+![[Pasted image 20241012033219.png]]
+
+
+AA:1,AKs:1,AQs:1,AJs:1,ATs:1,A9s:1,A8s:1,A7s:1,A5s:1,AKo:1,KK:1,KQs:1,KJs:1,KTs:1,AQo:1,KQo:1,QQ:1,QJs:1,QTs:1,AJo:1,JJ:1,JTs:1,ATo:1,TT:1,99:1,88:1,77:1,66:1,55:1,K9s:1,Q9s:1,J9s:0.76,T9s:1,A3s:1,A4s:1,A6s:1,A8o:1,A9o:1,44:1,KJo:1,A2s:0.42,98s:0.06,87s:0.03
+
+1. AA:1,AKs:1,AQs:1,AJs:1,ATs:1,A9s:1,A8s:1,A7s:1,A5s:1,AKo:1,KK:1,KQs:1,KJs:0.8,AQo:1,KQo:1,QQ:1,AJo:1,JJ:1,ATo:1,TT:1,99:1,88:1,77:1,66:1,55:1,A3s:0.48,A4s:0.68,A6s:0.72,A8o:1,A9o:1,44:0.91,KJo:0.93
+2. KJs:0.2,KTs:1,QJs:1,QTs:1,JTs:1,K9s:1,A4s:0.32,A6s:0.28,44:0.09,KJo:0.07
+3. Q9s:1,J9s:0.76,T9s:1,A3s:0.52,A2s:0.42,98s:0.06,87s:0.03
+
+
+#BT #CO #10b #3b/call 

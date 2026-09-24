@@ -1,0 +1,10 @@
+![[Pasted image 20241012034019.png]]
+
+AA:1,AKs:1,AQs:1,AJs:1,ATs:1,A9s:1,A8s:1,A7s:0.9,AKo:1,KK:1,KQs:1,KJs:1,KTs:1,AQo:1,KQo:1,QQ:1,QJs:1,QTs:1,AJo:1,JJ:1,JTs:1,ATo:1,TT:1,99:1,88:1,77:1,66:1,55:1,A5s:0.15,T9s:0.1
+
+1. AA:0.62,AKs:1,AQs:1,AJs:1,ATs:1,AKo:1,KK:1,KQs:1,AQo:1,KQo:0.63,QQ:1,AJo:1,JJ:1,ATo:1,TT:1,99:1,88:1,77:1,66:0.79,55:0.43
+2. AA:0.38,A9s:1,A8s:1,KJs:1,KTs:1,QJs:1,66:0.21
+3. A7s:0.9,KQo:0.37,QTs:1,JTs:1,55:0.57,A5s:0.15,T9s:0.1
+
+
+#BT #MP1 #10b #3b/call 
