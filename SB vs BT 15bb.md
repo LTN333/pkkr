@@ -1,0 +1,16 @@
+![[Pasted image 20241012003823.png]]
+
+
+AA:1,AKs:1,AQs:1,AJs:1,ATs:1,A9s:1,A8s:1,A7s:1,A6s:1,A5s:1,A4s:1,A3s:1,A2s:1,AKo:1,KK:1,KQs:1,KJs:1,KTs:1,K9s:1,K8s:1,K7s:1,AQo:1,KQo:1,QQ:1,QJs:1,QTs:1,AJo:1,KJo:1,QJo:1,JJ:1,JTs:1,J9s:1,ATo:1,KTo:1,TT:1,T9s:1,A9o:1,99:1,A8o:1,88:1,A7o:1,77:1,A6o:1,66:1,A5o:1,55:1,A4o:1,44:1,A3o:1,33:1,22:1,A2o:1,JTo:1,K6s:0.06,J8s:0.1,T8s:0.04,QTo:0.55,Q9s:1
+
+### Ai
+AA:0.92,AKs:1,AQs:1,AJs:1,ATs:1,A9s:1,A8s:1,A7s:1,A6s:1,A5s:1,A4s:1,A3s:1,A2s:1,AKo:1,KK:1,KQs:1,KJs:1,KTs:1,K9s:0.67,K8s:0.88,K7s:0.62,AQo:1,KQo:1,QQ:1,QJs:1,QTs:1,AJo:1,KJo:1,QJo:1,JJ:1,JTs:1,J9s:0.94,ATo:1,KTo:1,TT:1,T9s:1,A9o:0.98,99:1,A8o:1,88:1,A7o:0.95,77:0.98,A6o:0.97,66:0.94,A5o:1,55:1,A4o:1,44:1,A3o:1,33:1,22:1,A2o:1,JTo:0.9,QTo:0.55,Q9s:0.67
+
+### C
+AA:0.08,K9s:0.33,A9o:0.02,A7o:0.05,77:0.02,A6o:0.03,66:0.06
+
+### Mc
+K8s:0.12,K7s:0.38,J9s:0.06,JTo:0.1,K6s:0.06,J8s:0.1,T8s:0.04,Q9s:0.33
+
+
+#SB #BT #15b #3b/call #vs2x 
